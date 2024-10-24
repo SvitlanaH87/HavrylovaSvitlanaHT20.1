@@ -1,0 +1,10 @@
+#myHeaderStyle {
+  color: red;
+  fontsize: 30px;
+  text-align: center;
+}
+#myMainTextStyle {
+  color: brown;
+  fontsize: 20px;
+  font-style: italic
+}
